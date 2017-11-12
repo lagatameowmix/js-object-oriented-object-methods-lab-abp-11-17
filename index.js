@@ -4,6 +4,6 @@ function BoardMember(name, homeState, training){
   this.training = training
 }
 
-PolishedBoardMember.veto = function(){
+polishedBoardMember.veto = function(){
     console.log('No, I must disagree')
   }
