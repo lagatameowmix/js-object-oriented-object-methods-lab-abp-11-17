@@ -7,6 +7,4 @@ function BoardMember(name, homeState, training){
   }
 }
 
-BoardMember.veto = function() {
-  console.log(`No, I must disagree`)
-}
+
